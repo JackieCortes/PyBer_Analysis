@@ -30,10 +30,10 @@ After this analysis it is suggested:
 3. Taking a condition to increase the drivers' population in point one, it would consider planning to raise the rides.
 
 ### Resources:
-*To see all details, please reach the following resources:
+*To see all details, please reach the following resources:*
 
-All plots from the previous analysis: [PyBer_Plots](https://github.com/JackieCortes/PyBer_Analysis/tree/main/analysis)
+*All plots from the previous analysis: [PyBer_Plots](https://github.com/JackieCortes/PyBer_Analysis/tree/main/analysis)
 
-Previous analysis code: [PyBer_Challenge_Code](https://github.com/JackieCortes/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
+*Previous analysis code: [PyBer_Challenge_Code](https://github.com/JackieCortes/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
 
-Current code: [PyBer_Previous_Analysis_Code](https://github.com/JackieCortes/PyBer_Analysis/blob/main/PyBer.ipynb)*
+*Current code: [PyBer_Previous_Analysis_Code](https://github.com/JackieCortes/PyBer_Analysis/blob/main/PyBer.ipynb)*
