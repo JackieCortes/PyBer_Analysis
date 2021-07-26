@@ -36,4 +36,4 @@ After this analysis it is suggested:
 
 * Previous analysis code: [PyBer_Challenge_Code](https://github.com/JackieCortes/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
 
-* Current code: [PyBer_Previous_Analysis_Code](https://github.com/JackieCortes/PyBer_Analysis/blob/main/PyBer.ipynb)*
+* Current code: [PyBer_Previous_Analysis_Code](https://github.com/JackieCortes/PyBer_Analysis/blob/main/PyBer.ipynb)
