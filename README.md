@@ -29,6 +29,7 @@ After this analysis it is suggested:
 2. The urban-type can support a raise in the fare rides based on the fares of the other city types.
 3. Taking a condition to increase the drivers' population in point one, it would consider planning to raise the rides.
 
+### Resources:
 *To see all details, please reach the following resources:
 
 All plots from the previous analysis: [PyBer_Plots](https://github.com/JackieCortes/PyBer_Analysis/tree/main/analysis)
