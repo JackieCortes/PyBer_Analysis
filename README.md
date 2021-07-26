@@ -31,8 +31,8 @@ After this analysis it is suggested:
 
 *To see all details, please reach the following resources:
 
-[PyBer_Plots](https://github.com/JackieCortes/PyBer_Analysis/tree/main/analysis)
+All plots from the previous analysis: [PyBer_Plots](https://github.com/JackieCortes/PyBer_Analysis/tree/main/analysis)
 
-[PyBer_Challenge_Code](https://github.com/JackieCortes/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
+Previous analysis code: [PyBer_Challenge_Code](https://github.com/JackieCortes/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
 
-[PyBer_Previous_Analysis_Code](https://github.com/JackieCortes/PyBer_Analysis/blob/main/PyBer.ipynb)*
+Current code: [PyBer_Previous_Analysis_Code](https://github.com/JackieCortes/PyBer_Analysis/blob/main/PyBer.ipynb)*
